@@ -1,5 +1,6 @@
-import Vue from 'vue'
-import App from './App'
+import Vue from 'vue';
+import App from './App';
+import "../static/vant-weapp/common/index.wxss"
 
 // import 'swiper/dist/css/swiper.css'
 

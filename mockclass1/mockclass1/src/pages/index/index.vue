@@ -31,7 +31,7 @@
                                 :src="img" 
                                 class="slide-image" 
                                 width="346"
-                                 height="118"/>
+                                height="118"/>
                             </swiper-item>
                         </a>
                         </swiper>
@@ -58,46 +58,28 @@
                             </div>
                             <div class="class">
                                 <div class="class_photo">
-                                    <img src="../../../static/images/class_1.png" alt="">
+                                    <img src="../../../static/images/class_2.png" alt="">
                                 </div>
                                 <div class="class_detail">
-                                    <div class="class_title">Node.js从零开发Web Server博客项目 前端晋升全栈工程师必备</div>
+                                    <div class="class_title">Google资深工程师深度讲解Go语言</div>
                                     <div class="class_more">
-                                        <div class="class_price">￥288</div>
+                                        <div class="class_price">￥399</div>
                                         <div class="class_grade">中级</div>
                                         <div class="class_watch">
                                             <div class="class_watch_icon">
                                                 <van-icon name="contact" size="12px" />
                                             </div>
-                                            <div class="class_watch_number">&nbsp;993</div>
+                                            <div class="class_watch_number">&nbsp;2543</div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="class">
                                 <div class="class_photo">
-                                    <img src="../../../static/images/class_1.png" alt="">
+                                    <img src="../../../static/images/class_3.png" alt="">
                                 </div>
                                 <div class="class_detail">
-                                    <div class="class_title">Node.js从零开发Web Server博客项目 前端晋升全栈工程师必备</div>
-                                    <div class="class_more">
-                                        <div class="class_price">￥288</div>
-                                        <div class="class_grade">中级</div>
-                                        <div class="class_watch">
-                                            <div class="class_watch_icon">
-                                                <van-icon name="contact" size="12px" />
-                                            </div>
-                                            <div class="class_watch_number">&nbsp;993</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="class">
-                                <div class="class_photo">
-                                    <img src="../../../static/images/class_1.png" alt="">
-                                </div>
-                                <div class="class_detail">
-                                    <div class="class_title">Node.js从零开发Web Server博客项目 前端晋升全栈工程师必备</div>
+                                    <div class="class_title">算法大神带你玩转数据结构 从入门到精通</div>
                                     <div class="class_more">
                                         <div class="class_price">￥288</div>
                                         <div class="class_grade">中级</div>
