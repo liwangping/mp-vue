@@ -25,7 +25,7 @@
   "dependencies": {
     "iview-weapp": "^2.0.0",
     "mpvue": "^2.0.0",
-    "vant": "^2.0.1",
+    "vant": "^2.1.8",
     "vant-weapp": "^0.5.14",
     "vuex": "^3.0.1"
   },
